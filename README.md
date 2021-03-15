@@ -2,8 +2,8 @@
 ## Mot de passe
 - Avoir un mot de passe complexe
     - Pas d'information personnel (nom d'un animal, date ou autre donnée sur ta personne)
-    - Avoir des majuscules (PAS UNIQUEMENT PAS 1ER LETTRE)
-    - Caractères spéciaux (PAS UNIQUEMENT UN . ou ! À LA FIN)
+    - Avoir des majuscules (**PAS UNIQUEMENT PAS 1ER LETTRE**)
+    - Caractères spéciaux (**PAS UNIQUEMENT UN . ou ! À LA FIN**)
     - Des chiffres (PAS JUSTE APRÈS LE TEXT)
     - ~~Boby2019.~~ ou ~~Boby2019!~~
     - Un mot de passe totalement aléatoire est toujours mieux
