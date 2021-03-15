@@ -3,7 +3,7 @@
 - Avoir un mot de passe complexe
     - Pas d'information personnel (nom d'un animal, date ou autre donnée sur ta personne)
     - Avoir des majuscules (PAS UNIQUEMENT PAS 1ER LETTRE)
-    - Caractères spéciaux (PAS UNIQUEMENT UN . À LA FIN)
+    - Caractères spéciaux (PAS UNIQUEMENT UN . ou ! À LA FIN)
     - Des chiffres (PAS JUSTE APRÈS LE TEXT)
     - ~~Boby2019.~~ ou ~~Boby2019!~~
     - Un mot de passe totalement aléatoire est toujours mieux
@@ -31,7 +31,7 @@
     - Si [ces entreprises](https://en.wikipedia.org/wiki/List_of_data_breaches) se sont fait hacker, personne n'est en sécurité
 
 ## Lien/URL
-- TOUJOURS considérer un lien comme malicieux
+- **TOUJOURS** considérer un lien comme malicieux
 - Contrôler l'orthographe du lien (ex: /facebouk.com/)
 - Contrôler si l'affichage et l'hyperlink sont différent (ex: [Facebook](https://google.com))
 - Contrôler la légitimer du lien
