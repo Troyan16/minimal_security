@@ -8,7 +8,7 @@
     - ~~Boby2019.~~ ou ~~Boby2019!~~
     - Un mot de passe totalement aléatoire est toujours mieux
 - Un mot de passe différent pour chaque site 
-    - Gestionnaire de mot de passe (LOGICIEL AVEC CHIFFREMENT PAS WORD)
+    - Gestionnaire de mot de passe (LOGICIEL AVEC CHIFFREMENT, PAS WORD)
         - Stocker sur le PC (Local)
             - Linux
                 - [KeePassXC](https://keepassxc.org/)
