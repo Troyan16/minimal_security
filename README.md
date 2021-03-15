@@ -54,18 +54,18 @@
 ## Fichier
 ### Executable
 - Contrôler la source (site officiel)
-- Contrôle antivirus
+- Contrôle avec antivirus
     - [VirusTotal](https://virustotal.com/)
     - [Stinger](https://www.mcafee.com/enterprise/fr-fr/downloads/free-tools/stinger.html)
     - ...
-- Contrôle le comportement
+- Contrôler le comportement
     - [any.run](https://any.run)
     - [Hybrid-analysis](https://www.hybrid-analysis.com)
 - Éviter les logiciels cracker
 ### Word/Excel/Powerpoint
 - Désactiver les macros/VBA
 - Contrôler la source
-- Contrôle anivirus
+- Contrôle avec anivirus
     - [VirusTotal](https://virustotal.com/)
     - [Stinger](https://www.mcafee.com/enterprise/fr-fr/downloads/free-tools/stinger.html)
     - ...
@@ -75,7 +75,7 @@
     - [any.run](https://any.run/)
 ### PDF
 - Contrôler la source
-- Contrôle anivirus
+- Contrôle avec anivirus
     - [VirusTotal](https://virustotal.com/)
     - [Stinger](https://www.mcafee.com/enterprise/fr-fr/downloads/free-tools/stinger.html)
     - ...
