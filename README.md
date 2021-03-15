@@ -1,4 +1,4 @@
-# Minimum sécurité
+# Sécurité minimum 
 ## Mot de passe
 - Avoir un mot de passe complexe
     - Pas d'information personnel (nom d'un animal, date ou autre donnée sur ta personne)
