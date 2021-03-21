@@ -80,3 +80,10 @@
     - [Stinger](https://www.mcafee.com/enterprise/fr-fr/downloads/free-tools/stinger.html)
     - ...
 - Contrôler les hyperliens et ne pas clicker dessus sans contrôle fait dans la rubrique "Lien/URL"
+
+## Wifi public
+- Contrôler que le pare-feu du PC soit bien activé
+- Utiliser un VPN
+    - [ProtonVPN](https://protonvpn.com)
+    - [NordVPN](https://nordvpn.com/)
+- Limiter les accès vers des sites sensible (banque, ...)
