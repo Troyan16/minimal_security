@@ -56,7 +56,6 @@
 - Contrôler la source (site officiel)
 - Contrôle avec antivirus
     - [VirusTotal](https://virustotal.com/)
-    - [Stinger](https://www.mcafee.com/enterprise/fr-fr/downloads/free-tools/stinger.html)
     - ...
 - Contrôler le comportement
     - [any.run](https://any.run)
