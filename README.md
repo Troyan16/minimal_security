@@ -67,7 +67,6 @@
 - Contrôler la source
 - Contrôle avec antivirus
     - [VirusTotal](https://virustotal.com/)
-    - [Stinger](https://www.mcafee.com/enterprise/fr-fr/downloads/free-tools/stinger.html)
     - ...
 - Contrôler les hyperliens et ne pas cliquer dessus sans effectuer les contrôles mentionnés dans la rubrique "Lien/URL"
 - Ne pas activer les macros/VBS même si le fichier le demande
@@ -79,7 +78,6 @@
 - Contrôler la source
 - Contrôle avec antivirus
     - [VirusTotal](https://virustotal.com/)
-    - [Stinger](https://www.mcafee.com/enterprise/fr-fr/downloads/free-tools/stinger.html)
     - ...
 - Contrôler les hyperliens et ne pas cliquer dessus sans effectuer les contrôles mentionnés dans la rubrique "Lien/URL"
 
